@@ -2,17 +2,12 @@
 Code of experiment about how fast any language count to 10,000,000
 
 Pseudocde :
-
-    variable1 = 1
-        
-        WHILE variable is > 10,000,000 :
-              variable1 = variable1 + 1
-              PRINT x // from 1 to 10,000,00
-                  IF variable1 == 10,000,000 :
-                      print "Up to ten millions"
-                      break counter when variable1 count to 10,000,000
-                  
-
+```
+   1 integer i = 1
+   2     while i is < 10000000 run 3 and 4
+   3         i=i+1
+   4         print "Up to ten million"                      
+```
 
 Time to excecute the program :
 
